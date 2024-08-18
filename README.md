@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabin Kumar Sah</h1>
 <div>
-  <img style="width: 100%;" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+  <img autoplay loop style="width: 100%;" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 </div>
 
 <h3 align="center">Web Development Enthusiast and Data Science Explorer | Dedicated to Building Responsive, User-Centric Websites and Uncovering Insights from Complex Data</h3>
